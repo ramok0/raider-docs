@@ -12,7 +12,7 @@ class Handlers
                 oSession["x-replywithtunnel"] = "FortniteTunnel";
                 return;
             }
-            oSession.fullUrl = "http://localhost:3551/" + oSession.PathAndQuery;
+            oSession.fullUrl = "http://localhost:3551" + oSession.PathAndQuery;
         }
     }
 }
