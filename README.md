@@ -32,4 +32,4 @@
 - [NotJeppy](https://github.com/NotJeppy) (1 contributions)
 - [TeoVR-YT](https://github.com/TeoVR-YT) (1 contributions)
 
-{contributors(Ramokprout/raider-docs)}
+- [Ramokprout](https://github.com/Ramokprout) (2 contributions)
