@@ -12,7 +12,7 @@
 Download a DLL injector, i'd recommand [IGCS](https://github.com/FransBouma/InjectableGenericCameraSystem/releases/tag/IGCSInjectorUI_103)
 
 Host : 
-- Inject [Raider.dll](build.md)
+- Inject [Raider.dll](build.md), if you dont have it, you can either [download it](https://nightly.link/kem0x/raider3.5/workflows/msbuild/stable/Release.zip) or [build it](build.md)
 - Wait till "Hooked 27 functions" shows up in the console
 - Click on the play button
 - Give your ip to your friend so they can join ([get ip](host.md))
