@@ -13,7 +13,7 @@
 
 ## Reminders
 > As of today, Raider only supports Fortnite 3.5
-<br>
+>>
 > Raider does not supports cosmetics, as requested by Epic Games.
 
 Special thanks to every contributors
