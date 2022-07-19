@@ -1,0 +1,20 @@
+# Raider - Install dependencies
+
+[Back to main](../main.md)
+
+**To build Raider, you'll need :** 
+- [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) (c++)
+- [Raider source code](https://github.com/kem0x/raider3.5/archive/refs/heads/stable.zip)
+
+When everything is installed, you can [build raider dll](build.md)
+
+**To play Fortnite with LawinServer, you'll need:**
+
+- [NodeJS](https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi)
+- [Lawin Server](https://github.com/Lawin0129/LawinServer/archive/refs/heads/main.zip)
+- [Lawin Proxy](https://cdn.discordapp.com/attachments/761635665175117876/964335513580490872/LawinServer.exe)
+- [Launcher.bat](https://drive.google.com/file/d/1hdqBupLjqFAvRBM5-bdaCGpShaFZpHgv/view?usp=sharing)
+- [DefaultEngine.ini](https://cdn.discordapp.com/attachments/950459579391692890/959220142510845952/DefaultEngine.ini)
+- [dotnet](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-3.1.26-windows-x64-installer)
+
+When everything is installed, you'll have to [config files](config.md) 

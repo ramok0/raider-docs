@@ -1,0 +1,20 @@
+# Raider - Host Without RAdmin
+
+[Back to main](../main.md)
+
+**Requirements**
+- [PlayIt](https://playit.gg/downloads/playit-0.8.3-beta-signed.exe)
+
+**[PlayIt settings](https://playit.gg/account/settings)**
+<br>
+<img src="../assets/playitparams.png" alt="playit settings" width="316">
+
+**Create a [tunnel](https://playit.gg/account/tunnels)**
+
+<img src="../assets/playitstep1.png" alt="playit step 1" width="477">
+<br>
+<img src="../assets/playitstep2.png" alt="playit step 2" width="471">
+<br>
+<img src="../assets/playitstep3.png" alt="playit step 3" width="277">
+<br>
+<img src="../assets/playitstepfinal.png" alt="playit step final" width="478">

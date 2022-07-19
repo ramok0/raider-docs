@@ -1,0 +1,24 @@
+# Raider - Edit Gamemode
+
+[Back to main](../main.md)
+
+**With Raider, you can change the gamemode (Solo, Duos, Playground, etc), this tutorial shows how to edit it**
+
+- First, go in the Game.h file
+
+- Then, edit the 8th line with the desired GameMode
+
+### Supported Gamemodes
+- GameMode50v50
+- GameModeSolos
+- GameModeDuos
+- GameModeLateGame (broken atm)
+- GameModePlayground
+
+**⚠️ You have to [build the dll](docs/build.md) to apply changes**
+
+#### Path to Game.h
+<img src="../assets/Game_header_path.png" alt="Path To Game.h Image"  width="300" height="300">
+
+#### Line to edit
+<img src="../assets/GameModeToEdit.png" alt="Line To Edit Image"  width="600">

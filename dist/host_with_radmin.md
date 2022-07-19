@@ -1,0 +1,16 @@
+# Raider - Host With RAdmin
+
+[Back to main](../main.md)
+
+**Requirements**
+- [Radmin](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.2.4457.1.exe)
+
+## Step 1 - [Create a Radmin network](../assets/radmin_create_network.png)
+
+## Step 2 - Send your network information to your friends
+
+## Step 3 - Get your IP
+
+<img src="../assets/radmin_ip.png" width="214">
+
+## Step 4 - Send your IP to your friends

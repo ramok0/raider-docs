@@ -1,0 +1,13 @@
+# Raider - Config
+
+[Back to main](../main.md)
+
+## Step 1 - Move [DefaultEngine.ini](https://cdn.discordapp.com/attachments/950459579391692890/959220142510845952/DefaultEngine.ini) in LawinServer folders
+
+Replace DefaultEngine.ini with [this DefaultEngine.ini](https://cdn.discordapp.com/attachments/950459579391692890/959220142510845952/DefaultEngine.ini) in CloudStorage folder. ([exemple](../assets/replacedefaultengine.png))
+
+## Step 2 - Move [Launcher.bat](https://drive.google.com/file/d/1hdqBupLjqFAvRBM5-bdaCGpShaFZpHgv/view?usp=sharing) in Win64 folder
+
+<img src="../assets/movelauncherbatresult.png" width="508">
+
+When this is done, you can [Start Fortnite](startfortnite.md)
