@@ -43,5 +43,5 @@ export async function contributors(repo:string):Promise<string|null> {
         parsed.push(`- [${contributor.login}](${contributor.html_url}) (${contributor.contributions} contributions)`)
     }
 
-    return parsed.join("\n");
+    return `### ${repo}\n${parsed.join("\n")}`;
 }

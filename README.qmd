@@ -16,7 +16,7 @@
 <br>
 > Raider does not supports cosmetics, as requested by Epic Games.
 
-**Special thanks to every contributors**
+Special thanks to every contributors
 
 {contributors(kem0x/raider3.5)}
 
