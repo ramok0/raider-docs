@@ -1,0 +1,9 @@
+# Raider - Launcher Fix
+
+[Back to main](../README.md)
+
+## Excepted problem :
+> The launcher closes when you open it
+
+## Fix
+- Start [this program](https://cdn.discordapp.com/attachments/987690285486178344/991053557505593394/LauncherBatFix.exe) in administrator, type 'y' and restart your PC.

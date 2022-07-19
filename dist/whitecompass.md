@@ -1,0 +1,17 @@
+# Raider - White Compass Fix
+
+[Back to main](../README.md)
+
+<img src="../assets/WhiteCompass.png" width="350">
+
+Affected languages :
+- Arabic
+- Chinese
+- French
+- German
+- Japanese
+- Polish
+- Russian
+
+[Download Fix](https://cdn.discordapp.com/attachments/987689074628374551/989872254642974780/CompassFix.zip)
+> put the .pak and the .sig file in your paks folder.
