@@ -34,4 +34,4 @@ Special thanks to every contributors
 - [TeoVR-YT](https://github.com/TeoVR-YT) (1 contributions)
 
 ### Ramokprout/raider-docs
-- [Ramokprout](https://github.com/Ramokprout) (3 contributions)
+- [Ramokprout](https://github.com/Ramokprout) (5 contributions)
