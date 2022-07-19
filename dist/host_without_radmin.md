@@ -1,6 +1,6 @@
 # Raider - Host Without RAdmin
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 **Requirements**
 - [PlayIt](https://playit.gg/downloads/playit-0.8.3-beta-signed.exe)

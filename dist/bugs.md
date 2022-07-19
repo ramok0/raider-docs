@@ -1,6 +1,6 @@
 # Raider - Bugs
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 ## White compass
 

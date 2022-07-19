@@ -1,6 +1,6 @@
 # Raider - Install dependencies
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 **To build Raider, you'll need :** 
 - [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) (c++)

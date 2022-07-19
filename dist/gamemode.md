@@ -1,6 +1,6 @@
 # Raider - Edit Gamemode
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 **With Raider, you can change the gamemode (Solo, Duos, Playground, etc), this tutorial shows how to edit it**
 

@@ -1,6 +1,6 @@
 # Raider - Build dll
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 **⚠️ Before building, make sure that you've installed [dependencies](dependencies.md)**
 

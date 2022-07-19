@@ -1,6 +1,6 @@
 # Raider - Config
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 ## Step 1 - Move [DefaultEngine.ini](https://cdn.discordapp.com/attachments/950459579391692890/959220142510845952/DefaultEngine.ini) in LawinServer folders
 

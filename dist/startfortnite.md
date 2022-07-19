@@ -1,6 +1,6 @@
 # Raider - Start Fortnite
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 - Start LawinServer.exe
 - Start Lawin Server (with start.bat) [image](../assets/LawinBatch.png)

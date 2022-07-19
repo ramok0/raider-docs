@@ -1,6 +1,6 @@
 # Raider - Edit loadout
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 ## Get WIDs
 You can get wids in [this file](../misc/weapons.txt) or in [this pastebin](https://pastebin.com/NQPcw6mj)

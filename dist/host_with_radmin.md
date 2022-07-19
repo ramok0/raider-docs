@@ -1,6 +1,6 @@
 # Raider - Host With RAdmin
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 **Requirements**
 - [Radmin](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.2.4457.1.exe)

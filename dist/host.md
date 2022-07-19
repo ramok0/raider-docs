@@ -1,6 +1,6 @@
 # Raider - Host
 
-[Back to main](../main.md)
+[Back to main](../README.md)
 
 [Back to main](../main.md)
 
