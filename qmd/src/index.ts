@@ -16,8 +16,8 @@ async function main():Promise<number> {
         const base = path.basename(qmd)
         const content = fs.readFileSync(qmd);
         const newContent = await parse(content);
-        if(base == "main.qmd") {
-            fs.writeFileSync(path.join(__dirname, "..", "..", "main.md"), newContent);
+        if(base == "README.qmd") {
+            fs.writeFileSync(path.join(__dirname, "..", "..", "README.md"), newContent);
         } else {
             fs.writeFileSync(path.join(__dirname, "..", "..", "dist", base.replace(".qmd", ".md")), newContent);
         }
