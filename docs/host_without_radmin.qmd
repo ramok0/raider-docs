@@ -21,3 +21,5 @@
 ## Step 3 - Copy this IP and send it to your friends
 
 <img src="../assets/playitstepfinal.png" alt="playit step final" width="478">
+
+for exemple, the command to join the server here is : "open 147.185.221.224:23416"

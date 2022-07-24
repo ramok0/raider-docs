@@ -22,10 +22,11 @@ Special thanks to every contributors
 - [samuelsiv](https://github.com/samuelsiv) (95 contributions)
 - [kem0x](https://github.com/kem0x) (84 contributions)
 - [Milxnor](https://github.com/Milxnor) (82 contributions)
-- [Kyiro](https://github.com/Kyiro) (20 contributions)
+- [Kyiro](https://github.com/Kyiro) (24 contributions)
 - [PRO100KatYT](https://github.com/PRO100KatYT) (8 contributions)
 - [Pakchunk](https://github.com/Pakchunk) (4 contributions)
 - [AveryMadness](https://github.com/AveryMadness) (3 contributions)
+- [UWUFN](https://github.com/UWUFN) (3 contributions)
 - [OutTheShade](https://github.com/OutTheShade) (3 contributions)
 - [Ramokprout](https://github.com/Ramokprout) (3 contributions)
 - [Fischsalat](https://github.com/Fischsalat) (2 contributions)
@@ -34,4 +35,4 @@ Special thanks to every contributors
 - [TeoVR-YT](https://github.com/TeoVR-YT) (1 contributions)
 
 ### Ramokprout/raider-docs
-- [Ramokprout](https://github.com/Ramokprout) (11 contributions)
+- [Ramokprout](https://github.com/Ramokprout) (13 contributions)
